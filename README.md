@@ -4,7 +4,7 @@
 Cybersecurity Engineer graduated from **ESIEE Paris (SecNumedu – ANSSI certified)**.  
 SOC Analyst (N1) with hands-on experience in SIEM deployment, log integration, detection engineering, and adversary simulation.
 
-Currently seeking a **SOC Analyst / Blue Team position (CDI/CDD)** to actively contribute to monitoring and securing information systems.
+Currently seeking a **SOC Analyst / Blue Team position** to actively contribute to monitoring and securing information systems.
 
 ## Objective
 
