@@ -20,9 +20,7 @@ My goal is to work within a Security Operations Center where I can:
 
 | Skill                                         | Associated Project / Experience |
 |-----------------------------------------------|----------------------------------|
-| SIEM Implementation and Log Analysis (QRadar, ELK, Splunk) | SOC Deployment @ Yokamos |
-| Log Integration (WinCollect, Rsyslog, Sysmon) | SOC Detection Lab |
-| Network Traffic Monitoring (Arkime, Softflowd, Wireshark) | Network Capture Lab |
+### [🛡️ Active Directory Detection Lab](https://github.com/bilalgh1/Active-Directory-Lab)
 | Detection Engineering (MITRE ATT&CK Mapping) | SOC Detection Lab |
 | Security Automation with Python (iptables) | Firewall Automation Project |
 | Intrusion Detection with Wazuh | ELK + Wazuh Project |
