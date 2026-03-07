@@ -1,8 +1,7 @@
 # Hello, I'm Bilal
 <a href="https://linkedin.com/in/bilal-ghlouci"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Cybersecurity Engineer graduated from **ESIEE Paris (SecNumedu – ANSSI certified)**.  
-SOC Analyst (N1) with hands-on experience in SIEM deployment, log integration, detection engineering, and adversary simulation.
+Cybersecurity Engineer graduated from **ESIEE Paris (SecNumedu – ANSSI certified) with hands-on experience in SIEM deployment, log integration, detection engineering, and adversary simulation.
 
 Currently seeking a **SOC Analyst / Blue Team position** to actively contribute to monitoring and securing information systems.
 
