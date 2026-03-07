@@ -20,9 +20,7 @@ My goal is to work within a Security Operations Center where I can:
 | Skill                                         | Associated Project / Experience |
 |-----------------------------------------------|----------------------------------|
 ### [🛡️ Active Directory Detection Lab](https://github.com/bilalgh1/Active-Directory-Lab)
-| Detection Engineering (MITRE ATT&CK Mapping) | SOC Detection Lab |
-| Security Automation with Python (iptables) | Firewall Automation Project |
-| Intrusion Detection with Wazuh | ELK + Wazuh Project |
+### [🛡️ SOAR-EDR Automation Lab](https://github.com/bilalgh1/SOAR-EDR-Project)
 
 ## Tools
 
