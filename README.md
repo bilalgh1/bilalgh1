@@ -18,7 +18,7 @@ My goal is to work within a Security Operations Center where I can:
 ## 🔬 Projects
 
 | Associated Project |
-|-----------------------------------------------|----------------------------------|
+
 ### [🛡️ Active Directory Detection Lab](https://github.com/bilalgh1/Active-Directory-Lab)
 ### [🛡️ SOAR-EDR Automation Lab](https://github.com/bilalgh1/SOAR-EDR-Project)
 
