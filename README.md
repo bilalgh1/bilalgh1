@@ -1,9 +1,11 @@
 # Hello, I'm Bilal
 <a href="https://linkedin.com/in/bilal-ghlouci"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Cybersecurity Engineer graduated from **ESIEE Paris (SecNumedu – ANSSI certified) with hands-on experience in SIEM deployment, log integration, detection engineering, and adversary simulation.
+Cybersecurity Engineer graduated from **ESIEE Paris** (SecNumedu – ANSSI certified) with hands-on experience in SIEM deployment, log integration, detection engineering, and adversary simulation, backed by practical infrastructure skills: network segmentation, Windows/Linux administration and Active Directory.
 
 Currently seeking a **SOC Analyst / Blue Team position** to actively contribute to monitoring and securing information systems.
+
+I am building my skills across the whole infrastructure stack — **network → systems → cloud → IAM → GRC** — to understand what I defend, not only how to detect attacks against it.
 
 ## Objective
 
@@ -17,8 +19,19 @@ My goal is to work within a Security Operations Center where I can:
 
 ## 🔬 Projects
 
-### [🛡️ Active Directory Detection Lab](https://github.com/bilalgh1/Active-Directory-Lab)
-### [🛡️ SOAR-EDR Automation Lab](https://github.com/bilalgh1/SOAR-EDR-Project)
+### Detection & Response
+
+| Project | Description |
+|---|---|
+| [🛡️ Active Directory Detection Lab](https://github.com/bilalgh1/Active-Directory-Lab) | Splunk SIEM fed by Sysmon and Universal Forwarder on an AD domain; RDP brute force (Crowbar) and Atomic Red Team techniques (T1059.001, T1136.001) detected |
+| [🛡️ SOAR-EDR Automation Lab](https://github.com/bilalgh1/SOAR-EDR-Project) | LimaCharlie EDR + Tines SOAR + Slack: credential-harvesting detection (LaZagne), analyst decision prompt and automatic endpoint isolation |
+
+### Infrastructure
+
+| Project | Description |
+|---|---|
+| [🌐 Network Admin Lab](https://github.com/bilalgh1/network-admin-lab) | Segmented enterprise network: OPNsense firewall, VLANs, AD, WireGuard VPN, troubleshooting |
+| [🖥️ Sysadmin Lab](https://github.com/bilalgh1/sysadmin-lab) | Windows/Linux administration: Active Directory, GPO, DHCP relay, NTFS shares, hardened Ubuntu server, backup & restore, 9 documented incidents |
 
 ## 🛠️ Tools
 
@@ -49,6 +62,17 @@ My goal is to work within a Security Operations Center where I can:
 ### SOAR & Automation
 <div>
     <img src="https://img.shields.io/badge/-Tines-6E44FF?&style=for-the-badge&logoColor=white" />
+</div>
+
+### Infrastructure & Systems
+<div>
+    <img src="https://img.shields.io/badge/-Windows%20Server-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Active%20Directory-003366?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu%20Server-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OPNsense-D94F00?&style=for-the-badge&logo=OPNsense&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
 </div>
 
 ### Offensive Security
