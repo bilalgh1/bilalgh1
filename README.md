@@ -26,6 +26,12 @@ My goal is to work within a Security Operations Center where I can:
 | [🛡️ Active Directory Detection Lab](https://github.com/bilalgh1/Active-Directory-Lab) | Splunk SIEM fed by Sysmon and Universal Forwarder on an AD domain; RDP brute force (Crowbar) and Atomic Red Team techniques (T1059.001, T1136.001) detected |
 | [🛡️ SOAR-EDR Automation Lab](https://github.com/bilalgh1/SOAR-EDR-Project) | LimaCharlie EDR + Tines SOAR + Slack: credential-harvesting detection (LaZagne), analyst decision prompt and automatic endpoint isolation |
 
+### Identity & Access
+
+| Project | Description |
+|---|---|
+| [🔐 IAM Access Governance Lab](https://github.com/bilalgh1/iam-access-governance-lab) | Access governance for an SME: AD audit and hardening (PingCastle risk 75 → 20), HR-driven joiner-mover-leaver automation in PowerShell with SoD checks, GLPI access requests with temporary grants, Entra ID Cloud Sync with OIDC and SAML SSO, access review campaign |
+
 ### Infrastructure
 
 | Project | Description |
@@ -88,4 +94,12 @@ My goal is to work within a Security Operations Center where I can:
 <div>
     <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-E5001C?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logoColor=white" />
+</div>
+
+### Identity & Access
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft%20Entra%20ID-0078D4?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GLPI-0E4C92?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PingCastle-1B3A5C?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SAML%20%2F%20OIDC-555555?&style=for-the-badge&logoColor=white" />
 </div>
