@@ -3,7 +3,7 @@
 
 Cybersecurity Engineer graduated from **ESIEE Paris** (SecNumedu – ANSSI certified) with hands-on experience in SIEM deployment, log integration, detection engineering, and adversary simulation, backed by practical infrastructure skills: network segmentation, Windows/Linux administration and Active Directory.
 
-Currently seeking a **SOC Analyst / Blue Team position** to actively contribute to monitoring and securing information systems.
+Currently seeking a **cybersecurity position** to actively contribute to securing information systems.
 
 I am building my skills across the whole infrastructure stack — **network → systems → cloud → IAM → GRC** — to understand what I defend, not only how to detect attacks against it.
 
